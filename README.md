@@ -54,7 +54,7 @@ Every push to `main` runs [`.github/workflows/deploy.yml`](.github/workflows/dep
 
 ## Related
 
-[Daveoskibooknook5](https://github.com/Daveoski/Daveoskibooknook5) is the in-memory version of the same API, used before the Azure services were wired in.
+[booknook-api-prototype](https://github.com/Daveoski/booknook-api-prototype) is the in-memory version of the same API, used before the Azure services were wired in.
 
 ## License
 
